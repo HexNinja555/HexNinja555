@@ -12,13 +12,6 @@
 
 <br>
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EnterpriseManager1111-arch&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnterpriseManager1111-arch&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=c9d1d9"/>
-</div>
-
-<br>
-
 ## 💻 Tech Stack & Tools
 
 ### 🎨 Frontend Development
@@ -65,14 +58,6 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnterpriseManager1111-arch&theme=radical" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnterpriseManager1111-arch&theme=radical" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EnterpriseManager1111-arch&theme=radical&utcOffset=8" />
-</div>
-
-<br>
-
-## 🎯 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnterpriseManager1111-arch&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true" />
 </div>
 
 <br>
