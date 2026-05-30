@@ -19,7 +19,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,nuxtjs,ts,js,tailwind,sass,redux,nodejs,express,nestjs,py,django,flask,php,laravel,postgres,mysql,mongodb,redis,prisma,typeorm,flutter,androidstudio,java,cs,aws,docker,kubernetes,solidity,web3,ethereum,d3,threejs,graphql,apollographql,trpc,wordpress,shopify&perline=7&theme=dark" alt="Tech stack" />
+  <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,nuxtjs,ts,js,tailwind,sass,redux,nodejs,express,nestjs,py,django,flask,php,laravel,postgres,mysql,mongodb,redis,prisma,flutter,androidstudio,java,cs,aws,docker,kubernetes,solidity,d3,threejs,graphql,apollo,wordpress&perline=6&theme=dark" alt="Tech stack" />
 </p>
 
 <img src="https://raw.githubusercontent.com/HexNinja555/HexNinja555/main/assets/divider.svg" width="100%" alt=""/>
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-  <img height="165" src="https://streak-stats.demolab.com/?user=HexNinja555&theme=tokyonight&hide_border=true&ring=38bdf8&fire=818cf8&currStreakLabel=a5b4fc" alt="GitHub streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=HexNinja555&theme=tokyonight&hide_border=true&ring=38bdf8&fire=818cf8&currStreakLabel=a5b4fc" alt="GitHub streak" />
 
   <br><br>
 
@@ -41,7 +41,7 @@
 
   <br><br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HexNinja555&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HexNinja555&theme=tokyonight" />
 
 </div>
 
