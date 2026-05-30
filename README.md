@@ -63,7 +63,6 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats-alpha.vercel.app/api?username=HexNinja555&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a5b4fc&text_color=e2e8f0&icon_color=38bdf8" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=HexNinja555&theme=tokyonight&hide_border=true&ring=38bdf8&fire=818cf8&currStreakLabel=a5b4fc" alt="GitHub streak" />
 
   <br><br>
@@ -71,7 +70,7 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HexNinja555&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HexNinja555&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HexNinja555&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HexNinja555&theme=tokyonight&utcOffset=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=HexNinja555&theme=tokyo-night&hide_border=true&custom_title=Commits&bg_color=0f172a&color=38bdf8&line=818cf8&point=38bdf8&title_color=a5b4fc" alt="Commits" />
 
   <br><br>
 
