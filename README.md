@@ -70,7 +70,7 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HexNinja555&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HexNinja555&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HexNinja555&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=HexNinja555&theme=tokyo-night&hide_border=true&custom_title=Commits&bg_color=0f172a&color=38bdf8&line=818cf8&point=38bdf8&title_color=a5b4fc" alt="Commits" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HexNinja555&theme=tokyonight&utcOffset=8" alt="Commits by hour" />
 
   <br><br>
 
