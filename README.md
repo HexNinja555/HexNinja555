@@ -54,10 +54,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnterpriseManager1111-arch&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnterpriseManager1111-arch&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnterpriseManager1111-arch&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EnterpriseManager1111-arch&theme=radical&utcOffset=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HexNinja555&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HexNinja555&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HexNinja555&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HexNinja555&theme=radical&utcOffset=8" />
 </div>
 
 <br>
@@ -67,7 +67,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnterpriseManager1111-arch&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HexNinja555&theme=radical" />
 </div>
 
 <br>
