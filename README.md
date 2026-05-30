@@ -10,77 +10,52 @@
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 
-  <br>
-
-  <img src="https://user-images.githubusercontent.com/73087526/105837550-660b28a0-5fe9-11eb-8299-00d154aef0026" width="90%" alt="divider"/>
-
 </div>
+
+<img src="https://raw.githubusercontent.com/HexNinja555/HexNinja555/main/assets/divider.svg" width="100%" alt=""/>
 
 <br>
 
 ## Tech Stack
 
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
+### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,nuxtjs,ts,js,tailwind,sass,redux,wordpress,shopify" alt="Frontend Technologies" />
 </p>
-</details>
 
-<details open>
-<summary><b>Backend</b></summary>
-<br>
+### Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,django,flask,php,laravel" alt="Backend Technologies" />
 </p>
-</details>
 
-<details open>
-<summary><b>Database & ORM</b></summary>
-<br>
+### Database & ORM
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,typeorm" alt="Database Technologies" />
 </p>
-</details>
 
-<details>
-<summary><b>Mobile</b></summary>
-<br>
+### Mobile
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,java,cs" alt="Mobile Technologies" />
 </p>
-</details>
 
-<details>
-<summary><b>Cloud & DevOps</b></summary>
-<br>
+### Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" alt="Cloud & DevOps Technologies" />
 </p>
-</details>
 
-<details>
-<summary><b>Blockchain & Web3</b></summary>
-<br>
+### Blockchain & Web3
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,web3,ethereum" alt="Blockchain Technologies" />
 </p>
-</details>
 
-<details>
-<summary><b>Tools & Libraries</b></summary>
-<br>
+### Tools & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=d3,threejs,graphql,apollographql,trpc" alt="Tools & Libraries" />
 </p>
-</details>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73087526/105837550-660b28a0-5fe9-11eb-8299-00d154aef0026" width="90%" alt="divider"/>
-</div>
+<img src="https://raw.githubusercontent.com/HexNinja555/HexNinja555/main/assets/divider.svg" width="100%" alt=""/>
 
 <br>
 
@@ -88,8 +63,8 @@
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HexNinja555&show_icons=true&hide_border=true&theme=tokyonight&icon_color=38bdf8&title_color=a5b4fc&text_color=e2e8f0&bg_color=0f172a" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=HexNinja555&theme=tokyonight&hide_border=true&ring=38bdf8&fire=818cf8&currStreakLabel=a5b4fc" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=HexNinja555&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a5b4fc&text_color=e2e8f0&icon_color=38bdf8" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=HexNinja555&theme=tokyonight&hide_border=true&ring=38bdf8&fire=818cf8&currStreakLabel=a5b4fc" alt="GitHub streak" />
 
   <br><br>
 
