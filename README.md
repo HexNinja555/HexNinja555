@@ -19,8 +19,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,nuxtjs,ts,js,tailwind,sass,redux,nodejs,express,nestjs,py,django,flask,php,laravel,postgres,mysql,mongodb,redis,prisma,typeorm&perline=10" alt="Core stack" /><br>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,java,cs,aws,docker,kubernetes,solidity,web3,ethereum,d3,threejs,graphql,apollographql,trpc,wordpress,shopify&perline=10" alt="Platforms & tools" />
+  <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,nuxtjs,ts,js,tailwind,sass,redux,nodejs,express,nestjs,py,django,flask,php,laravel,postgres,mysql,mongodb,redis,prisma,typeorm,flutter,androidstudio,java,cs,aws,docker,kubernetes,solidity,web3,ethereum,d3,threejs,graphql,apollographql,trpc,wordpress,shopify&perline=7&theme=dark" alt="Tech stack" />
 </p>
 
 <img src="https://raw.githubusercontent.com/HexNinja555/HexNinja555/main/assets/divider.svg" width="100%" alt=""/>
