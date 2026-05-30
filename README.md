@@ -18,42 +18,10 @@
 
 ## Tech Stack
 
-### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,nuxtjs,ts,js,tailwind,sass,redux,wordpress,shopify" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,nuxtjs,ts,js,tailwind,sass,redux,nodejs,express,nestjs,py,django,flask,php,laravel,postgres,mysql,mongodb,redis,prisma,typeorm&perline=10" alt="Core stack" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,java,cs,aws,docker,kubernetes,solidity,web3,ethereum,d3,threejs,graphql,apollographql,trpc,wordpress,shopify&perline=10" alt="Platforms & tools" />
 </p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,django,flask,php,laravel" alt="Backend Technologies" />
-</p>
-
-### Database & ORM
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,typeorm" alt="Database Technologies" />
-</p>
-
-### Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,java,cs" alt="Mobile Technologies" />
-</p>
-
-### Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" alt="Cloud & DevOps Technologies" />
-</p>
-
-### Blockchain & Web3
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,web3,ethereum" alt="Blockchain Technologies" />
-</p>
-
-### Tools & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=d3,threejs,graphql,apollographql,trpc" alt="Tools & Libraries" />
-</p>
-
-<br>
 
 <img src="https://raw.githubusercontent.com/HexNinja555/HexNinja555/main/assets/divider.svg" width="100%" alt=""/>
 
